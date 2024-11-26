@@ -1,0 +1,50 @@
+.inicio{
+    display: flex;
+    
+}
+.foto1{
+    width: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+        }
+        
+    
+
+.nome{
+           text-align: center          ;
+           display: flex;
+           align-items: center;
+           margin-left: 20px;
+           
+    }
+    .ftc
+{
+    margin-bottom: 0;
+}
+.ucs{
+    margin-bottom: 0;
+}
+
+    .texto1{
+        text-align: justify;
+    }
+    .texto2{
+        text-align: justify;
+    }
+    .texto3{
+        text-align: justify;
+        
+    }
+    .geral{
+        margin-top: 20px;    
+        margin-right: 40px;  
+        margin-bottom: 30px; 
+        margin-left: 40px;  
+        background-color: black;    
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px solid;
+        border-radius: 15px;
+   
+    }
+
